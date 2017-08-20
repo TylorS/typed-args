@@ -2,7 +2,7 @@
   "name": "change-me",
   "description": "change-me",
   "repository": "https://github.com/TylorS/CHANGE_ME",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "typings": "lib/index.d.ts",
